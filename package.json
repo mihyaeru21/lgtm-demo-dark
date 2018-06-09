@@ -1,0 +1,25 @@
+{
+  "name": "lgtm-demo-dark",
+  "version": "0.1.0",
+  "description": "lgtm demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mihyaeru21/lgtm-demo-dark.git"
+  },
+  "keywords": [
+    "lgtm"
+  ],
+  "author": "Mihyaeru <mihyaeru21@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mihyaeru21/lgtm-demo-dark/issues"
+  },
+  "homepage": "https://github.com/mihyaeru21/lgtm-demo-dark#readme",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1"
+  }
+}
